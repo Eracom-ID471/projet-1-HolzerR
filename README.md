@@ -2,6 +2,7 @@ Projet 1 – Améliorations Portfolio
 
 
 Alors mon portfolio, est plutôt sympa, il est assez propre grâce au différents bouts de templates utilisés. Il est cohérents avec les travaux présentés, coloré et simple. Mais il manque clairement de contenu pour être plus consistant, et a besoin de plus de diversité dans les projets proposés. Les textes pourrait être modifiés pour être mieux présentés lorsque le site est en mode mobile.
+
 Amélioration Portfolio :
 - Faire en sorte que les liens, s’ouvrent sur un autre onglet.
 - Changer les contacts, enlever les input field liés au mail et faire des contacts plus « classique ».
